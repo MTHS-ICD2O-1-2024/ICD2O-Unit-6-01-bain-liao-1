@@ -2,8 +2,8 @@
   "name": "Bain's App",
   "short_name": "Bain's App",
   "description": "Github Page for Bain's App",
-  "scope": "/ICS2O-PWA-5-01/",
-  "start_url": "/ICS2O-PWA-5-01/",
+  "scope": "/ICD2O-Unit-6-01-bain-liao-1/",
+  "start_url": "/ICD2O-Unit-6-01-bain-liao-1/",
   "permissions": [ 
     "unlimitedStorage",
     "fullscreen"
